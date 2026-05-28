@@ -12,7 +12,6 @@
     <strong>Advanced Player Recruitment & Performance Analytics Matrix</strong>
   </p>
   
-  <sub>💡 Sitenin canlı demosu için yukarıdaki logoya tıklayabilirsin aslanım.</sub>
 </div>
 
 ---
