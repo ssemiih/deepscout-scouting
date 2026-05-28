@@ -1,6 +1,9 @@
 # ⚡ DEEPSCOUT — AI Powered Football Intelligence Platform
 
 <div align="center">
+  
+[![Live App](https://img.shields.io/badge/DEEPSCOUT-LIVE%20DEMO-00F2FE?style=for-the-badge&logo=streamlit&logoColor=white)](https://deepscout-scouting-2hv3gv5es6bbmgtgngypyo.streamlit.app/)
+
   <p align="center">
     <strong>Advanced Player Recruitment & Performance Analytics Matrix</strong>
   </p>
