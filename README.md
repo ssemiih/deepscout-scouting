@@ -41,5 +41,5 @@ To run the DeepScout Analytics Platform locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/ssemiih/deepscout-scouting.git](https://github.com/ssemiih/deepscout-scouting.git)
-   cd deepscout-scouting
+     git clone https://github.com/ssemiih/deepscout-scouting.git
+     cd deepscout-scouting
